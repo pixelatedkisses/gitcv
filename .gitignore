@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+venv/
+node_modules/
+dist/
+*.pdf
+*.aux
+*.log
+fixtures/*.json
+!fixtures/github_sample.json
